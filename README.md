@@ -1,2 +1,3 @@
 # Estudante-C
-Estudante TI Programação c
+Estudante TI Programação
+Estudante Engenharia em Software 
